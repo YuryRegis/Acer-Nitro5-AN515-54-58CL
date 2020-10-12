@@ -1,6 +1,7 @@
 # Acer-Nitro5-AN515-54-58CL
 
 EFI files to boot Mojave Hackintosh on Acer Nitro 5 
+![print](https://i.ibb.co/8jMNF6B/Captura-de-Tela-2020-10-12-a-s-11-41-27.png)
 
 ## Instruções
 
