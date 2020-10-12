@@ -20,6 +20,10 @@ Para corrigir o bug do trackpad que inutiliza o teclado, utilizo um kext voodoo 
 
 Deixe um comentário caso encontre uma alternativa melhor para solucionar este problema.
 
+Kext para Airport com placa wireless Intel adicionado. Usar aplicação Heliport para reconhecer as redes disponíveis (créditos: [Alexandre Lima](https://github.com/aclima01)).
+- [Airport Kext](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.2.0-alpha);
+- [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1)
+
 ## Roda ou não roda ?
 
 - Placa de vídeo dedicada Nvidea ❌;
@@ -29,5 +33,5 @@ Deixe um comentário caso encontre uma alternativa melhor para solucionar este p
 - Teclado ✔️;
 - Audio ✔️;
 - Rede Ethernet (limitado a 100Mbps) ✔️;
-- Rede Wifi ❌;
+- Rede Wifi ✔️;
 - Bluetooth ❌
