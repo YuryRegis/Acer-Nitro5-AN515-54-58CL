@@ -4,7 +4,7 @@ EFI files to boot Mojave Hackintosh on Acer Nitro 5
 
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/8jMNF6B/Captura-de-Tela-2020-10-12-a-s-11-41-27.png">
+  <img src="https://i.ibb.co/8jMNF6B/Captura-de-Tela-2020-10-12-a-s-11-41-27.png">
 </p>
 
 
