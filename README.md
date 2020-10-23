@@ -1,6 +1,6 @@
 # Acer-Nitro5-AN515-54-58CL
 
-EFI files to boot Mojave Hackintosh on Acer Nitro 5
+EFI files to boot Mojave Hackintosh on Acer Nitro 5 (CLOVER)
 
 
 <p align="center">
@@ -29,6 +29,23 @@ Deixe um comentário caso encontre uma alternativa melhor para solucionar este p
 Kext para Airport com placa wireless Intel adicionado. Usar aplicação Heliport para reconhecer as redes disponíveis (créditos: [Alexandre Lima](https://github.com/aclima01)).
 - [Airport Kext](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.2.0-alpha);
 - [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1)
+### Especificações de hardware
+INFO           | ESPECIFICAÇÃO
+:------------- | :---------------------------------
+Fabricante     | ACER BRASIL
+Modelo         | NITRO 5 AN515-54-58CL
+OS Fabrica     | Endless OS
+BIOS           | v1.31
+CPU            | Intel Core i5-9300H
+iGPU           | Intel UHD Graphics 630
+GPU            | GeForce GTX 1650 4 GB GDDR5 
+HDD            | 1 TB 5400 RPM SATA III
+SSD            | SSD de 128 GB M.2 SATA III (x2)
+RAM            | 16 GB 2667 MHz DDR4 (2x8GB)
+Wifi+Bluetooth | Intel AX200 (INT9560)
+Ethernet       | Realtek RTL8168/8111 PCI-E Gbit
+Audio          | Realtek ALC255 
+Trackpad       | ELAN 0504
 
 ## Roda ou não roda ?
 
